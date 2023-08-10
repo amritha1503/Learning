@@ -1,0 +1,13 @@
+How to install git in local computer? (from googlewe can download it)
+
+How to Create a new repository in github or gitlab or bitbucket ?
+
+How to clone a file from  repository to local computer?
+
+How to create a new branch?
+
+How to push newly added files to a repository?
+
+How to merge files from any branch to main branch?
+
+
